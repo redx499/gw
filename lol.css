@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+}
+header a{
+    background-color: rgb(0, 140, 255);
+    color:beige;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+header {
+    padding: 7px;
+    border: solid black;
+    border-radius: 5px;
+}
+
+nav {
+    background-color: rgb(0, 140, 255);
+    color:beige;
+    border-radius: 3px;
+    text-decoration: none;
+    padding: 2px;
+    margin: 2px;
+}
+nav a{
+    padding: 2px;
+    margin: 10px;
+}
+main h1{
+    text-align: center;
+    color:beige;
+    background-color: rgb(0, 140, 255);
+    border: solid black;
+    border-radius: 8px;
+}
+footer p{
+    background-color: beige;
+    margin: 10px;
+}
+footer {
+    background-color: rgb(0, 140, 255);
+    padding: 3px;
+}
+main img{
+    border: solid rgb(0, 140, 255);
+    border-radius: 8px;
+    background-color: beige;
+}
+main h2{
+    color: rgb(0, 140, 255);
+    border: solid black;
+    border-radius: 8px;
+    background-color: beige;
+}
+
+.contacts{
+    color: rgb(0, 140, 255);
+    border: solid black;
+    background-color: beige;
+    border-radius: 5px;
+    text-decoration: none;
+}
